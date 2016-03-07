@@ -6,3 +6,9 @@ SISTEMON DE CONTROL ESCOLAR
 ________________________________________________________________________________
 Sistema que permite decidir quien está reprobado y quien no en la escuela. Se
 pueden capturar alumnos, calificaciones y boletitas.
+
+
+Functional Requisites
+________________________________________________________________________________
+
+1- The system will permit the registry of students
