@@ -1,1 +1,8 @@
 Hola :3
+Glad to meet you °3°
+
+
+SISTEMON DE CONTROL ESCOLAR
+________________________________________________________________________________
+Sistema que permite decidir quien está reprobado y quien no en la escuela. Se
+pueden capturar alumnos, calificaciones y boletitas.
