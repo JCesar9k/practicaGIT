@@ -12,3 +12,13 @@ Functional Requisites
 ________________________________________________________________________________
 
 1- The system will permit the registry of students
+2- The system will show reports of deleted students
+3- The system will permit the capture of grades
+
+
+Non-Functional Requisites
+________________________________________________________________________________
+
+1- The system has to be easy to use
+2- It will use data in a safe way
+3- Will be always aviable        
