@@ -1,0 +1,29 @@
+commit 03f9d5b1c53a22695d5489241d6eb64932e472b2
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Tue Mar 8 10:17:49 2016 -0700
+
+    Proyecto en Blanco 5 :3
+
+commit a538b79dce0a73a0683a6e25d5c1fc552f632e5d
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Mon Mar 7 11:04:08 2016 -0700
+
+    Proyecto en Blanco 4 (Don't ask for No. 3 please)
+
+commit 9ea881fd87a1885d407f690215aed1fd6031af3b
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Mon Mar 7 11:00:01 2016 -0700
+
+    Proyecto en Blanco 2 :3
+
+commit 30c09dca607a62b9360e4f32ee3449c38d54341a
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Mon Mar 7 10:56:41 2016 -0700
+
+    Proyecto en Blanco 2 :3
+
+commit bbe4b74ca5e5a272d196baeb70d92de48672c7ce
+Author: Julius <jcesarfl9k@hotmail.com>
+Date:   Mon Mar 7 10:53:42 2016 -0700
+
+    Proyecto en Blanco :3
